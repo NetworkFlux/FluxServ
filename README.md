@@ -30,4 +30,4 @@ It would of course need additionnal server behaviour but this wasn't the purpose
 - Deep dive into reliability and optimizations
 
 ## Comments -- ⚙️
-Be carefull because as this server is right now it is still vulnerable to some cyberattacks (DDOS). Make sure to secure it by youself if you plan on launch this in the wild ‼️
+Be carefull because as this server is right now it is still vulnerable to some cyberattacks (DDOS). Make sure to secure it by youself if you plan on launching this in the wild ‼️
